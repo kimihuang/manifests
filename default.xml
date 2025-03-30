@@ -9,5 +9,5 @@
 
     <project path="quantum" name="kimihuang/Quantum" />
     <project path="quantum/src/autotest_framework" name="kimihuang/autotest_framework" />
-    <project path="quantum/src/modules/externals" name="kimihuang/linux_modules" />
+    <project path="quantum/src/modules/externals/linux_modules" name="kimihuang/linux_modules" />
 </manifest>
