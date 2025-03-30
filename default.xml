@@ -7,5 +7,6 @@
              remote="github"
              sync-j="4" />
 
-    <project path="src/quantum" name="kimihuang/Quantum" />
+    <project path="quantum" name="kimihuang/Quantum" />
+    <project path="quantum/src/autotest_framework" name="kimihuang/autotest_framework" />
 </manifest>
