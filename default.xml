@@ -10,4 +10,5 @@
     <project path="quantum" name="kimihuang/Quantum" />
     <project path="quantum/src/autotest_framework" name="kimihuang/autotest_framework" />
     <project path="quantum/src/modules/externals/linux_modules" name="kimihuang/linux_modules" />
+    <project path="quantum/src/buildroot/buildroot-2025.02-rc1" name="kimihuangl/buildroot-2025.02-rc1" />
 </manifest>
