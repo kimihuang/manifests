@@ -11,4 +11,5 @@
     <project path="src/autotest_framework" name="kimihuang/autotest_framework" />
     <project path="src/modules/externals/linux_modules" name="kimihuang/linux_modules" />
     <project path="src/buildroot/buildroot-2025.02-rc1" name="kimihuang/buildroot-2025.02-rc1" revision="main"/>
+    <project path="docs/design_patterns" name="kimihuang/design_patterns" />
 </manifest>
