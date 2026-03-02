@@ -9,7 +9,7 @@
 
     <project path="." name="kimihuang/Quantum" />
     <project path="src/autotest_framework" name="kimihuang/autotest_framework" />
-    <project path="src/modules/externals/linux_modules" name="kimihuang/linux_modules" />
+    <project path="src/modules" name="kimihuang/linux_modules" />
     <project path="src/linux_arch_arm64" name="kimihuang/linux-arch-arm64" />
     <project path="src/buildroot/buildroot-2025.02-rc1" name="kimihuang/buildroot-2025.02-rc1" revision="main"/>
     <project path="src/rpmsg-lite" name="kimihuang/rpmsg-lite" revision="main"/>
