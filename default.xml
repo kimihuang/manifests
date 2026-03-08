@@ -14,5 +14,6 @@
     <project path="src/buildroot/buildroot-2025.02-rc1" name="kimihuang/buildroot-2025.02-rc1" revision="master"/>
     <project path="src/rpmsg-lite" name="kimihuang/rpmsg-lite" revision="master"/>
     <project path="src/u-boot-2026.01-rc5" name="kimihuang/u-boot" revision="master"/>
+    <project path="src/packages" name="kimihuang/packages" revision="master"/>
     <project path="docs/design_patterns" name="kimihuang/design_patterns" revision="master"/>
 </manifest>
