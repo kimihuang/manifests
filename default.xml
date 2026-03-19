@@ -3,17 +3,17 @@
     <remote  name="origin"
              fetch="ssh://git@github.com/" />
 
-    <default revision="master"
+    <default revision="main"
              remote="origin"
              sync-j="4" />
 
-    <project path="." name="kimihuang/Quantum" revision="master"/>
-    <project path="src/autotest_framework" name="kimihuang/autotest_framework" revision="master"/>
-    <project path="src/modules" name="kimihuang/linux_modules" revision="master"/>
-    <project path="src/linux_arch_arm64" name="kimihuang/linux-arch-arm64" revision="master"/>
-    <project path="src/buildroot/buildroot-2025.02-rc1" name="kimihuang/buildroot-2025.02-rc1" revision="master"/>
-    <project path="src/rpmsg-lite" name="kimihuang/rpmsg-lite" revision="master"/>
-    <project path="src/u-boot-2026.01-rc5" name="kimihuang/u-boot" revision="master"/>
-    <project path="src/packages" name="kimihuang/packages" revision="master"/>
-    <project path="docs/design_patterns" name="kimihuang/design_patterns" revision="master"/>
+    <project path="." name="kimihuang/Quantum" revision="main"/>
+    <project path="src/autotest_framework" name="kimihuang/autotest_framework" revision="main"/>
+    <project path="src/modules" name="kimihuang/linux_modules" revision="main"/>
+    <project path="src/linux_arch_arm64" name="kimihuang/linux-arch-arm64" revision="main"/>
+    <project path="src/buildroot/buildroot-2025.02-rc1" name="kimihuang/buildroot-2025.02-rc1" revision="main"/>
+    <project path="src/rpmsg-lite" name="kimihuang/rpmsg-lite" revision="main"/>
+    <project path="src/u-boot-2026.01-rc5" name="kimihuang/u-boot" revision="main"/>
+    <project path="src/packages" name="kimihuang/packages" revision="main"/>
+    <project path="docs/design_patterns" name="kimihuang/design_patterns" revision="main"/>
 </manifest>
