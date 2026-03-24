@@ -11,7 +11,6 @@
     <project path="src/modules" name="kimihuang/linux_modules" revision="main"/>
     <project path="src/buildroot/buildroot-2025.02-rc1" name="kimihuang/buildroot-2025.02-rc1" revision="main"/>
     <project path="src/rpmsg-lite" name="kimihuang/rpmsg-lite" revision="main"/>
-    <project path="src/u-boot-2026.01-rc5" name="kimihuang/u-boot" revision="main"/>
     <project path="src/packages" name="kimihuang/packages" revision="main"/>
     <project path="docs/drawio" name="kimihuang/drawio" revision="main"/>
     <project path="docs/quantumdocs" name="kimihuang/quantumdocs" revision="main"/>
