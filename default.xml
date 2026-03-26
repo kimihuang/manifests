@@ -14,5 +14,6 @@
     <project path="src/packages" name="kimihuang/packages" revision="main"/>
     <project path="docs/drawio" name="kimihuang/drawio" revision="main"/>
     <project path="docs/quantumdocs" name="kimihuang/quantumdocs" revision="main"/>
+    <project path="docs/quantum_memory" name="kimihuang/quantum_memory" revision="main"/>
     <project path="docs/design_patterns" name="kimihuang/design_patterns" revision="main"/>
 </manifest>
