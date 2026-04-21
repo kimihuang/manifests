@@ -17,4 +17,5 @@
     <project path="docs/quantum_memory" name="kimihuang/quantum_memory" revision="main"/>
     <project path="docs/design_patterns" name="kimihuang/design_patterns" revision="main"/>
     <project path="src/spec_research" name="kimihuang/spec_research" revision="main"/>
+    <project path="src/quantum_server" name="kimihuang/quantum_server" revision="main"/>
 </manifest>
