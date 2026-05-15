@@ -20,4 +20,5 @@
     <project path="src/quantum_server" name="kimihuang/quantum_server" revision="main"/>
     <project path="labgrid_test" name="kimihuang/quantum_test" revision="main"/>
     <project path="src/quantum_test_server" name="kimihuang/quantum_test_server" revision="main"/>
+    <project path="src/doxygendocs_server" name="kimihuang/doxygendocs" revision="main"/>
 </manifest>
